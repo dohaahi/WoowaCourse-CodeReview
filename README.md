@@ -11,7 +11,7 @@
 
 ## <a href="https://github.com/woowacourse/java-vendingmachine-precourse"> <img src="https://em-content.zobj.net/source/microsoft-teams/363/coin_1fa99.png" width="3%"> </a> 자판기 미션
 
-#### <a href = "링크를 입력해 주세요"/> 김도하
+#### <a href = "https://github.com/dohaahi/java-vendingmachine-practice/pull/1"/> 김도하
 
 #### <a href = "링크를 입력해 주세요"/> 김은수
 
