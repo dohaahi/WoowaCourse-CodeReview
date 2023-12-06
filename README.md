@@ -15,6 +15,6 @@
 
 #### <a href = "링크를 입력해 주세요"/> 김은수
 
-#### <a href = "링크를 입력해 주세요"/> 임지현
+#### <a href = "https://github.com/Jiihyun/java-vendingmachine-practice/pull/1"/> 임지현
 
 #### <a href = "링크를 입력해 주세요"/> 최지원
