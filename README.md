@@ -13,7 +13,7 @@
 
 #### <a href = "https://github.com/dohaahi/java-vendingmachine-practice/pull/1"/> 김도하
 
-#### <a href = "링크를 입력해 주세요"/> 김은수
+#### <a href = "https://github.com/minisyu/java-vendingMachine-practice/pull/1"/> 김은수
 
 #### <a href = "https://github.com/Jiihyun/java-vendingmachine-practice/pull/1"/> 임지현
 
