@@ -22,7 +22,7 @@
 
 ## <a href="https://github.com/parkmuhyeun/java-menu/tree/main"> <img src="https://em-content.zobj.net/source/microsoft-teams/363/cooking_1f373.png" width="3%"> </a> 메뉴 미션
 
-#### <a href = "https://github.com/dohaahi/java-menu-practice/pull/1"/> 김도하
+#### <a href = "https://github.com/dohaahi/java-menu-practice"/> 김도하
 
 #### <a href = "https://github.com/minisyu/java-menu-practice/pull/2"/> 김은수
 
